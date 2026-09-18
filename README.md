@@ -59,11 +59,11 @@ Handwriting on an infinite canvas turns into clean Markdown using a vision-langu
 <tr>
 <td width="50%" valign="top">
 
-**[💳 ReconAI](https://github.com/Probot-01/Payment-Reconciliation-System)**
+**[⚖️ Saarthi](https://github.com/Probot-01/Saarthi)**
 
-Matches payments to orders and flags the ones that don't add up.
+Legal help over a plain phone call. Ask in your own language, get an answer grounded in actual law and case precedents. Hackathon team project.
 
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +85,7 @@ Hackathon team project: report civic issues on a map and track them until they'r
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab,cpp,java&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,prisma&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,fastapi,postgres&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
 
 </div>
