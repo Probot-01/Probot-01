@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Saad%20Inamdar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20SPIT%20Mumbai&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Saad%20Inamdar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20SPIT%20Mumbai&descSize=16&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=680&lines=Building+AI+people+can+actually+trust;Models+that+work+outside+the+notebook+too;Turning+papers+into+prototypes%2C+and+prototypes+into+papers" alt="Typing SVG"/>
 
