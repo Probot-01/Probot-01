@@ -19,9 +19,10 @@
 <tr>
 <td width="50%" valign="top">
 
-**[👁️ Diabetic Retinopathy Screening](https://github.com/Probot-01/Diabetic-Retinopathy-Screening)** &nbsp;`🚧 WIP`
+**[👁️ Diabetic Retinopathy Screening](https://github.com/Probot-01/Diabetic-Retinopathy-Screening)** &nbsp;
 
-Fundus-image screening for rural health centres. A classifier and a U-Net segmentation branch cross-check each other; disagreements go to a doctor.
+
+ Detecting diabetic blindness before it happens. NetraSetu turns any rural health centre into an eye-screening point: a health worker snaps a retina photo, explainable AI grades diabetic retinopathy in seconds, and high-risk patients are fast-tracked to an ophthalmologist.
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
