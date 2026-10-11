@@ -29,7 +29,7 @@
 </td>
 <td width="50%" valign="top">
 
-**[🕵️ Shoulder-Surfer Detection](https://github.com/Probot-01/Shoulder-Surfer-Detection)**
+**[🕵️ Shoulder-Surfer Detection](https://github.com/Probot-01/Shoulder-Surfer-Detection)** &nbsp;`(Private)`
 
 Webcam system that spots someone actually reading your screen, not just standing behind you. Runs at 55–65 FPS on a CPU.
 
@@ -75,6 +75,19 @@ Hackathon team project: report civic issues on a map and track them until they'r
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🤝 Negotiation Copilot](https://github.com/Probot-01/ai-negotiation-assistant)** &nbsp;`🚧 WIP`
+
+An AI copilot for negotiations: researches the other side and writes a strategy brief before the meeting, coaches you live during the call, and drafts the recap and follow-ups afterwards.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
