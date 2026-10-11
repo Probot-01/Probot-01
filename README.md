@@ -40,11 +40,11 @@ Webcam system that spots someone actually reading your screen, not just standing
 <tr>
 <td width="50%" valign="top">
 
-**[🎙️ Voice-Based Diabetes Detection](https://github.com/Probot-01/Diabetes-Detection)** &nbsp;`🚧 WIP`
+**[🤝 Negotiation Copilot](https://github.com/Probot-01/ai-negotiation-assistant)** &nbsp;`🚧 WIP`
 
-Can your voice give away Type 2 diabetes? Acoustic features, XGBoost and a Gradio app to try it out.
+An AI copilot for negotiations: researches the other side and writes a strategy brief before the meeting, coaches you live during the call, and drafts the recap and follow-ups afterwards.
 
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/librosa-4D77CF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
 
 </td>
 <td width="50%" valign="top">
@@ -69,25 +69,12 @@ Legal help over a plain phone call. Ask in your own language, get an answer grou
 </td>
 <td width="50%" valign="top">
 
-**[🏙️ Civic Connect](https://github.com/Probot-01/Civic-Connect)**
+**[🎙️ Voice-Based Diabetes Detection](https://github.com/Probot-01/Diabetes-Detection)** &nbsp;`🚧 WIP`
 
-Hackathon team project: report civic issues on a map and track them until they're fixed.
+Can your voice give away Type 2 diabetes? Acoustic features, XGBoost and a Gradio app to try it out.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/librosa-4D77CF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🤝 Negotiation Copilot](https://github.com/Probot-01/ai-negotiation-assistant)** &nbsp;`🚧 WIP`
-
-An AI copilot for negotiations: researches the other side and writes a strategy brief before the meeting, coaches you live during the call, and drafts the recap and follow-ups afterwards.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
